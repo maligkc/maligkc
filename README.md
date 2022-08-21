@@ -6,7 +6,7 @@
 ## Student at Bulent Ecevit University | Computer Engineering
 
 
-I'm studying computer engineering at Bulent Ecevit University. Before the University I had interest in computers software programming etc. My goal is being professional fullstack developer. Now I focus on how to improve myself to become such developer.
+I'm studying computer engineering at Bulent Ecevit University. Before the University I had interest in computers software programming etc. Now I focus on how to improve myself to become professional developer.
 
 ### Reach out to me
 
