@@ -32,5 +32,5 @@ I'm studying computer engineering at Bulent Ecevit University. Before the Univer
 
 #### Backend
 
-[![](https://skillicons.dev/icons?i=python,flask,c#,java,mysql)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=python,flask,cs,dotnet,java,mysql)](https://skillicons.dev)
 
