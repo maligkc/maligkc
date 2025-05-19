@@ -29,10 +29,10 @@ I'm studying computer engineering at Bulent Ecevit University. Before the Univer
 
 [![](https://skillicons.dev/icons?i=visualstudio,vscode)](https://skillicons.dev)
 
-#### Frontend
+
 [![](https://skillicons.dev/icons?i=html,css,js,bootstrap)](https://skillicons.dev)
 
-#### Backend
+
 
 [![](https://skillicons.dev/icons?i=python,flask,cs,dotnet,java,mysql)](https://skillicons.dev)
 
