@@ -27,6 +27,8 @@ I'm studying computer engineering at Bulent Ecevit University. Before the Univer
 
 ### 💻 Tech I use
 
+[![](https://skillicons.dev/icons?i=visualstudio,vscode)](https://skillicons.dev)
+
 #### Frontend
 [![](https://skillicons.dev/icons?i=html,css,js,bootstrap)](https://skillicons.dev)
 
