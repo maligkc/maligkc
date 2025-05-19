@@ -27,7 +27,10 @@ I'm studying computer engineering at Bulent Ecevit University. Before the Univer
 
 ### 💻 Tech I use
 
-# Frontend
+#### Frontend
 [![](https://skillicons.dev/icons?i=html,css,js,bootstrap)](https://skillicons.dev)
 
+#### Backend
+
+[![](https://skillicons.dev/icons?i=python,flask,c#,java,mysql)](https://skillicons.dev)
 
