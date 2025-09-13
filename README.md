@@ -54,7 +54,7 @@
 <h4>Reach out to me</h4>
 
 <div align="left">
-  <a href="maligkc12@gmail.com" target="_blank">
+  <a href="mailto:maligkc12@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/muhammed-ali-g%C3%B6k%C3%A7e-75746a226/" target="_blank">
