@@ -50,7 +50,7 @@
 </div>
 
 ### 
-<h4>Reach out to me:</h4>
+<h4>Reach out to me</h4>
 
 <div align="left">
   <a href="maligkc12@gmail.com" target="_blank">
