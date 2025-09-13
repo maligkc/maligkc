@@ -12,6 +12,8 @@
 <img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc24zanBsYzF0cmpldjZsNXU5NWM3Z2g0b2tqbG13ejJqODgxbHozMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif"  />
 
 ###
+<h3>Tech I use</h3>
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
@@ -47,7 +49,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="visualstudio logo"  />
 </div>
 
-###
+### 
+<h4>Reach out to me:</h4>
 
 <div align="left">
   <a href="maligkc12@gmail.com" target="_blank">
