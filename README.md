@@ -1,4 +1,4 @@
-<h1 align="left">Jr. Backend Developer - Muhammed Ali</h1>
+<h1 align="left">.NET Developer - Muhammed Ali</h1>
 
 ###
 
